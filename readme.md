@@ -7,9 +7,8 @@ languages I'm able to read,write and speak fluently, my level of education I've 
 university degree or other types of education. Also, they might be interested in other kinds of 
 experiencies like voluntary activities I've participated in, sports that I've practised or skills I've learned.  
 
-Information architecture:
 
-Visual design:
+Visual design and Information Architecture:
 
 I will use a light blue and white color palette for this project, because I think it will give it 
 a more professional and serious look to it. 
@@ -23,4 +22,4 @@ The font of the entire project will be Arial Sans-Serif because I think it gives
 
 Link to the figma project: https://www.figma.com/file/wWAN6Dao6Uvk3hQFlKxlzn/Curriculum-Multimedia?type=design&mode=design&t=JYohNwb98AdMOtuU-1
 
-Link to the final html : https://quimf.github.io/multimedia/
+Link to the curriculum vitae : https://quimf.github.io/multimedia/
