@@ -20,3 +20,5 @@ The other section will be parallell to the first section and it will have a whit
 me like: Education block, languages block, companies I've worked before block, etc.
 
 The font of the entire project will be Arial Sans-Serif because I think it gives it a more professional look.
+
+Link to the figma project: https://www.figma.com/file/wWAN6Dao6Uvk3hQFlKxlzn/Curriculum-Multimedia?type=design&mode=design&t=JYohNwb98AdMOtuU-1
